@@ -5,7 +5,7 @@ Building SkypeClone using Material-UI, React.js, Express.js, Node.js, MongoDB &a
 
 ```
 git clone https://github.com/pociosx/opentalk.git
-cd skypeClone
+cd opentalk
 npm install
 ```
 ## Running the app
